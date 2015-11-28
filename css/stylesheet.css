@@ -1,0 +1,89 @@
+body{
+	font-family: Arial;
+}
+
+
+
+.border{
+	border: 1px solid green;
+}
+
+
+.container{
+	padding-top:1em;
+}
+
+.header{
+	background-color:#dfdfdf;
+	text-align: center;
+	line-height:2.5em; 
+	font-size: 30px;
+	margin-bottom: 0.5em;
+}
+
+.settings{
+	float: right;
+	font-size: 14px;
+	margin-right: 2em;
+	margin-top: -3em;
+}
+
+
+.nameslist{
+	font-size: 18px;
+	line-height: 2.5em;
+	padding-left: 1em;
+	border-bottom: 1px solid #c1c3c4;
+	background-color: #dfdfdf;
+}
+
+
+
+#pmem{
+	font-size: 22px;
+	text-align: center;
+	padding-left: 0em;
+}
+
+img{
+	float: left;
+}
+.name{
+	margin-top: 2em;
+	margin-right: 0.5em;
+	float: right;
+	font-size: 24px;
+}
+
+
+.button{
+	float: right;
+	margin-right: -1em;
+}
+
+.clear{
+	margin-top: 3.5em;
+	clear: right;
+}
+
+td,th{
+	font-size: 13px;
+	text-align: center;
+	border-right: 1px solid white;
+}
+
+
+.tablehead{
+	text-align: center;
+	background-color: #666666;
+	color:#ffffff;
+	width: 10%;
+}
+
+.centeralign{
+	text-align: center;
+	margin-top: -1.7em;
+}
+.twidth{
+	width: 40%;
+}
